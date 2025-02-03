@@ -1,5 +1,6 @@
 body {
-    background-color: yellowgreen; /* Cor de fundo suave */
+    color: green;
+    background-color: orangered; /* Cor de fundo suave */
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
