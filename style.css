@@ -1,6 +1,6 @@
 body {
-    background-color: #f5f5f5; /* Cor de fundo suave */
-    font-family: Arial, sans-serif;
+    background-color: yellowgreen; /* Cor de fundo suave */
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
@@ -8,7 +8,7 @@ body {
 img {
     width: 150px;
     height: 150px;
-    border-radius: 50%; /* Deixa a imagem redonda */
+    border-radius: 50px 70px 0 50px; /* Deixa a imagem redonda */
     object-fit: cover; /* Ajusta o enquadramento */
     border: 3px solid #333; /* Adiciona uma borda sutil */
     margin-top: 20px;
